@@ -1,2 +1,4 @@
 # attritionDataVisualizationAndAnalysis
- Churn, or attrition, is when a customer leaves one company for another. This dataset has 20 predictors from 3333 customers and a target variable indicating if they churned. I will use statistical, predictive, and visualization techniques in R to analyze customer usage, satisfaction, churn predictors, reasons for leaving, and key correlations.
+
+
+Churn, also known as attrition, refers to a customer leaving one company to switch to another. This dataset includes information from 3333 customers across 20 predictors, along with the target variable indicating whether a customer has churned (left the company) or not. I will employ statistical, predictive, and visualization techniques in R to analyze this data, examining factors such as customer usage and satisfaction in relation to churn rates, identifying attributes that may predict churn, understanding reasons for customer departure, and exploring significant correlations.
